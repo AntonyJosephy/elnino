@@ -1,0 +1,7 @@
+streamlit
+xarray
+numpy
+matplotlib
+cartopy
+netcdf4
+cftime
