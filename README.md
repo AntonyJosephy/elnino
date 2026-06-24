@@ -35,8 +35,8 @@ Ensure you have **Python 3.10** installed. It is highly recommended to run this 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git]
-cd your-repo-name
+git clone [https://github.com/AntonyJosephy/elnino.git]
+cd elnino
 ```
 ### Step 2: Set Up a Virtual Environment
 #### Create an environment called py310
