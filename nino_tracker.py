@@ -84,7 +84,7 @@ except Exception as e:
 # Sidebar Status Panel
 # -----------------------------------------------------------------------------
 st.sidebar.header("📊 System Diagnostics")
-st.sidebar.metric(label="Data Current As Of", value=str(latest_date))
+st.sidebar.metric(label="Current Data As Of", value=str(latest_date))
 
 current_oni = anomalies_ts[-1]
 st.sidebar.metric(
